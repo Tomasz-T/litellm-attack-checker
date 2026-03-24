@@ -32,22 +32,6 @@ TeamPCP is the same group behind the Trivy, KICS, and CanisterWorm compromises.
 
 ## Installation
 
-### Option A: Copy to your Claude Code skills directory
-
-```bash
-cp -r litellm-attack-checker ~/.claude/skills/
-```
-
-### Option B: Add to a project
-
-```bash
-cp -r litellm-attack-checker .claude/skills/
-```
-
-The skill will be available to anyone who clones the project.
-
-### Option C: Clone and install
-
 ```bash
 git clone https://github.com/Tomasz-T/litellm-attack-checker.git
 cd litellm-attack-checker
